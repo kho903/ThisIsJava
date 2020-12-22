@@ -1,4 +1,4 @@
-package sec05.exam03_array_bynew;
+package sec06.exam02_array_bynew;
 
 public class ArrayCreateByNewExample {
 

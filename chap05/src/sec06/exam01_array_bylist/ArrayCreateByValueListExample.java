@@ -1,4 +1,4 @@
-package sec05.exam02_array_bylist;
+package sec06.exam01_array_bylist;
 
 public class ArrayCreateByValueListExample {
 
