@@ -1,4 +1,4 @@
-package sec08_exam04_overloading;
+package sec08.exam04_overloading;
 
 public class Calculator {
 	double areaRectangle(double width) {

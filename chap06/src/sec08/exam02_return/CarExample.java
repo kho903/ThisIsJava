@@ -1,4 +1,4 @@
-package sec08_exam02_return;
+package sec08.exam02_return;
 
 public class CarExample {
 

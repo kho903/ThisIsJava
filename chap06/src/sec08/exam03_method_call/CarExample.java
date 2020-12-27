@@ -1,4 +1,4 @@
-package sec08_exam03_method_call;
+package sec08.exam03_method_call;
 
 public class CarExample {
 

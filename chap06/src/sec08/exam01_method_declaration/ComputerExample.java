@@ -1,4 +1,4 @@
-package sec08_exam01_method_declaration;
+package sec08.exam01_method_declaration;
 
 public class ComputerExample {
 
