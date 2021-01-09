@@ -1,4 +1,4 @@
-package sec15.exam02_java_time;
+package sec16.exam01_java_time;
 
 import java.time.Instant;
 import java.time.LocalDate;
