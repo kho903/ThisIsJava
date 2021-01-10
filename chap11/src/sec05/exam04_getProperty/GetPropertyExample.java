@@ -16,12 +16,12 @@ public class GetPropertyExample {
 		System.out.println("--------------------------");
 		System.out.println("[ key ] value");
 		System.out.println("--------------------------");
-		Properties props = System.getProperties();
-		Set keys = props.keySet();
-		for (Object objKey : keys) {
-			String key = (String) objKey;
-			String value = System.getProperty(key);
-			System.out.printf("[%s] %s\n", key, value);
-		}
+//		Properties props = System.getProperties();
+//		Set keys = props.keySet();
+//		for (Object objKey : keys) {
+//			String key = (String) objKey;
+//			String value = System.getProperty(key);
+//			System.out.printf("[%s] %s\n", key, value);
+//		}
 	}
 }
