@@ -21,6 +21,7 @@ public class ExecuteVsSubmitExample {
 				}
 			};
 //			executorService.execute(runnable);
+			// submit이 execute보다 효율적 - 스레드를 재사용
 			executorService.submit(runnable);
 			// for문이 한번 돌때마다 예외를 출력하기 위해 -- execute일때
 			Thread.sleep(10);
